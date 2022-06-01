@@ -1,2 +1,2 @@
-# BasicSR
-This is a modified version of xinntao/BasicSR based on my personal usage habits.
+# DevBasicSR
+This is a development framework based on the modified version of xinntao/BasicSR with my personal usage habits.
